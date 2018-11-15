@@ -1,3 +1,11 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainWindow.xaml](./CS/PropertyGrid_Sorting/MainWindow.xaml) (VB: [MainWindow.xaml.vb](./VB/PropertyGrid_Sorting/MainWindow.xaml.vb))
+* **[MainWindow.xaml.cs](./CS/PropertyGrid_Sorting/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/PropertyGrid_Sorting/MainWindow.xaml.vb))**
+* [MyViewModel.cs](./CS/PropertyGrid_Sorting/MyViewModel.cs) (VB: [MyViewModel.vb](./VB/PropertyGrid_Sorting/MyViewModel.vb))
+* [Person.cs](./CS/PropertyGrid_Sorting/Person.cs) (VB: [Person.vb](./VB/PropertyGrid_Sorting/Person.vb))
+<!-- default file list end -->
 # PropertyGridControl - How to sort data using custom rules
 
 
